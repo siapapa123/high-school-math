@@ -35,7 +35,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="200" />
-              <mxPoint x="330" y="247" />
+              <mxPoint x="330" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -43,7 +43,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="200" />
-              <mxPoint x="330" y="338" />
+              <mxPoint x="330" y="431" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -52,6 +52,15 @@
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-6" value="元素：研究对象称为元素" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=none;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-9" value="集合：将元素组成的总体称为集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="180" width="190" height="20" as="geometry" />
@@ -66,34 +75,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-11" value="三要素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="237" width="46" height="20" as="geometry" />
+          <mxGeometry x="360" y="330" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-13" target="Vv4uia_VUNC-QQ6TIXsC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-13" value="确定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="207" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="300" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-14" target="Vv4uia_VUNC-QQ6TIXsC-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-14" value="互异性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="237" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="330" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-15" target="Vv4uia_VUNC-QQ6TIXsC-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-15" value="无序性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="267" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="360" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-21" value="集合中的元素是确定的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="540" y="209.5" width="130" height="15" as="geometry" />
+          <mxGeometry x="540" y="302.5" width="130" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-23" value="集合中的元素互不相同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="237" width="125" height="20" as="geometry" />
+          <mxGeometry x="542.5" y="330" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-25" value="集合中的元素无顺序差别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="267" width="140" height="20" as="geometry" />
+          <mxGeometry x="542.5" y="360" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-27" target="Vv4uia_VUNC-QQ6TIXsC-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -105,16 +114,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-27" value="表示方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="328" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="421" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="298" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="391" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="328" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="421" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-31" value="图示法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="358" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="451" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-3" value="元素一般用小写字母表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="600" y="145" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-4" value="集合一般用大写字母表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="175" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcAzoptO_WmIq8goRze2-5" target="hcAzoptO_WmIq8goRze2-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hcAzoptO_WmIq8goRze2-5" target="hcAzoptO_WmIq8goRze2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-5" value="元素与集合的关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="601" y="241" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-9" value="\(\in\)（属于）：\(x\in A\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="222" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hcAzoptO_WmIq8goRze2-10" value="\(\notin\)（不属于）：\(x\notin A\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="262" width="128" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
