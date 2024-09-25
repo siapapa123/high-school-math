@@ -51,7 +51,7 @@
           <mxGeometry x="210" y="190" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-6" value="元素：研究对象称为元素" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=none;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="142" width="140" height="20" as="geometry" />
+          <mxGeometry x="360" y="150" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-3">
           <mxGeometry relative="1" as="geometry" />
