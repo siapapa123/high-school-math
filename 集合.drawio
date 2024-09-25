@@ -131,7 +131,7 @@
         <mxCell id="hcAzoptO_WmIq8goRze2-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcAzoptO_WmIq8goRze2-4" target="hcAzoptO_WmIq8goRze2-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hcAzoptO_WmIq8goRze2-4" value="集合一般用大写字母或者&lt;div&gt;\(\{\)元素1,元素2,元素3,...\(\}\)&lt;/div&gt;&lt;div&gt;的形式表示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="hcAzoptO_WmIq8goRze2-4" value="集合一般用大写字母或&lt;div&gt;\(\{\)元素1,元素2,元素3,...\(\}\)&lt;/div&gt;&lt;div&gt;的形式表示&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="602" y="175" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hcAzoptO_WmIq8goRze2-5" target="hcAzoptO_WmIq8goRze2-9">
