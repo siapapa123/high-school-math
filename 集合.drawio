@@ -147,7 +147,7 @@
           <mxGeometry x="770" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-10" value="\(\notin\)（不属于）：\(x\notin A\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="770" y="272" width="128" height="30" as="geometry" />
+          <mxGeometry x="770" y="270" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-13" value="&lt;ol style=&quot;padding-left: 16px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;全体非负整数组成的集合（自然数集）：\(\mathbf{N}\)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;全体正整数组成的集合（正整数集）：\(\mathbf{N^*}\)或\(\mathbf{N_+}\)&lt;/li&gt;&lt;li&gt;全体整数组成的集合（整数集）：\(\mathbf{Z}\)&lt;/li&gt;&lt;li&gt;全体有理数组成的集合（有理数集）：\(\mathbf{Q}\)&lt;/li&gt;&lt;li&gt;全体实数组成的集合（实数集）：\(\mathbf{R}\)&lt;/li&gt;&lt;li&gt;全体复数组成的集合（复数集）：\(\mathbf{C}\)&lt;/li&gt;&lt;li&gt;没有任何元素的集合，也叫空集：\(\varnothing\)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacingBottom=0;" vertex="1" parent="1">
           <mxGeometry x="789" y="135" width="310" height="110" as="geometry" />
