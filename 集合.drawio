@@ -117,13 +117,13 @@
           <mxGeometry x="360" y="421" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="391" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="470" y="421" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="470" y="392" width="50" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-31" value="图示法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="451" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="450" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-3" value="元素一般用小写字母表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="113" width="140" height="30" as="geometry" />
