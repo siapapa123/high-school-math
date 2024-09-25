@@ -39,11 +39,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Vv4uia_VUNC-QQ6TIXsC-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-4" target="Vv4uia_VUNC-QQ6TIXsC-27" edge="1">
+        <mxCell id="hcAzoptO_WmIq8goRze2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-4" target="Vv4uia_VUNC-QQ6TIXsC-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="330" y="200" />
-              <mxPoint x="330" y="347" />
+              <mxPoint x="330" y="338" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -105,16 +105,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-27" value="表示方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="337" width="60" height="20" as="geometry" />
+          <mxGeometry x="360" y="328" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="307" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="298" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="337" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="328" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-31" value="图示法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="367" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="358" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
