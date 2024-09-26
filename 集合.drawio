@@ -70,34 +70,34 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-11" value="三要素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="412" width="46" height="20" as="geometry" />
+          <mxGeometry x="360" y="408" width="46" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-13" target="Vv4uia_VUNC-QQ6TIXsC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-13" value="确定性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="382" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="378" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-14" target="Vv4uia_VUNC-QQ6TIXsC-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-14" value="互异性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="412" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="408" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-15" target="Vv4uia_VUNC-QQ6TIXsC-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-15" value="无序性" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="450" y="442" width="50" height="20" as="geometry" />
+          <mxGeometry x="450" y="438" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-21" value="集合中的元素是确定的" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="540" y="384.5" width="130" height="15" as="geometry" />
+          <mxGeometry x="540" y="380.5" width="130" height="15" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-23" value="集合中的元素互不相同" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="412" width="125" height="20" as="geometry" />
+          <mxGeometry x="542.5" y="408" width="125" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-25" value="集合中的元素无顺序差别" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="542.5" y="442" width="140" height="20" as="geometry" />
+          <mxGeometry x="542.5" y="438" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-27" target="Vv4uia_VUNC-QQ6TIXsC-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
