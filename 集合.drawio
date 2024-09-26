@@ -119,6 +119,9 @@
         <mxCell id="luhbHATYq1ZCxEuC8jxz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-29" target="luhbHATYq1ZCxEuC8jxz-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-29" target="59S6Q1Q_1XNdlJHfsTI0-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="470" y="460" width="50" height="20" as="geometry" />
         </mxCell>
@@ -181,6 +184,9 @@
         </mxCell>
         <mxCell id="luhbHATYq1ZCxEuC8jxz-11" value="\(\{x\in|P(x)\}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="850" y="444" width="80" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-4" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;无限集合&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="471" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
