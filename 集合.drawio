@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.16">
   <diagram name="第 1 页" id="F86pxBzs7jDIRsQRSrXJ">
-    <mxGraphModel dx="887" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="954" dy="675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,16 +116,16 @@
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-27" value="表示方式" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="421" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-29" target="luhbHATYq1ZCxEuC8jxz-8">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-29" target="luhbHATYq1ZCxEuC8jxz-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="470" y="460" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-3">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
@@ -150,36 +150,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-5" value="元素与集合的关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="601" y="256" width="110" height="30" as="geometry" />
+          <mxGeometry x="601" y="253" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-9" value="\(\in\)（属于）：\(x\in A\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="770" y="240" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-10" value="\(\notin\)（不属于）：\(x\notin A\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="770" y="270" width="128" height="30" as="geometry" />
+          <mxGeometry x="770" y="265" width="128" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-13" value="&lt;ol style=&quot;padding-left: 24px; margin-top: 12px; margin-right: 0px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;全体非负整数组成的集合（自然数集）：\(\mathbf{N}\)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;全体正整数组成的集合（正整数集）：\(\mathbf{N^*}\)或\(\mathbf{N_+}\)&lt;/li&gt;&lt;li&gt;全体整数组成的集合（整数集）：\(\mathbf{Z}\)&lt;/li&gt;&lt;li&gt;全体有理数组成的集合（有理数集）：\(\mathbf{Q}\)&lt;/li&gt;&lt;li&gt;全体实数组成的集合（实数集）：\(\mathbf{R}\)&lt;/li&gt;&lt;li&gt;全体复数组成的集合（复数集）：\(\mathbf{C}\)&lt;/li&gt;&lt;li&gt;没有任何元素的集合，也叫空集：\(\varnothing\)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="789" y="135" width="310" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luhbHATYq1ZCxEuC8jxz-1" target="luhbHATYq1ZCxEuC8jxz-6">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="luhbHATYq1ZCxEuC8jxz-1" target="luhbHATYq1ZCxEuC8jxz-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-1" value="将集合中的元素不重复的列举出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-1" value="将集合中的元素不重复的列举出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="375" width="187.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-3" value="集合元素有限，且数量不多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-3" value="集合元素有限，且数量不多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="415" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-6" value="\(\{\)元素1,元素 2,元素3,…\(\}\)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-6" value="\(\{\)元素1,元素 2,元素3,…\(\}\)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="800" y="380" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="luhbHATYq1ZCxEuC8jxz-8" target="luhbHATYq1ZCxEuC8jxz-11">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="luhbHATYq1ZCxEuC8jxz-8" target="luhbHATYq1ZCxEuC8jxz-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-8" value="将集合中元素具有的特征用表达式表示出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-8" value="将集合中元素具有的特征用表达式表示出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="572.5" y="441" width="237.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-11" value="\(\{x\in|P(x)\}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-11" value="\(\{x\in|P(x)\}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="850" y="444" width="80" height="24" as="geometry" />
         </mxCell>
       </root>
