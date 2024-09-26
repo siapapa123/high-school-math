@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
   <diagram name="第 1 页" id="F86pxBzs7jDIRsQRSrXJ">
-    <mxGraphModel dx="1099" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="771" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -117,13 +117,19 @@
           <mxGeometry x="360" y="421" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-29" value="描述法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="421" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="520" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-30" target="luhbHATYq1ZCxEuC8jxz-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="392" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="415" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-31" value="图示法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="450" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="590" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-3" value="元素一般用小写字母表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="113" width="140" height="30" as="geometry" />
@@ -151,6 +157,12 @@
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-13" value="&lt;ol style=&quot;padding-left: 24px; margin-top: 12px; margin-right: 0px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;全体非负整数组成的集合（自然数集）：\(\mathbf{N}\)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;全体正整数组成的集合（正整数集）：\(\mathbf{N^*}\)或\(\mathbf{N_+}\)&lt;/li&gt;&lt;li&gt;全体整数组成的集合（整数集）：\(\mathbf{Z}\)&lt;/li&gt;&lt;li&gt;全体有理数组成的集合（有理数集）：\(\mathbf{Q}\)&lt;/li&gt;&lt;li&gt;全体实数组成的集合（实数集）：\(\mathbf{R}\)&lt;/li&gt;&lt;li&gt;全体复数组成的集合（复数集）：\(\mathbf{C}\)&lt;/li&gt;&lt;li&gt;没有任何元素的集合，也叫空集：\(\varnothing\)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="789" y="135" width="310" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-1" value="将集合中的元素不重复的列举出来，并用大括号括起来：&lt;div&gt;\(\{\)元素1,元素 2,元素3,…\(\}\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="390" width="307.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-3" value="集合元素有限，且数量不多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="430" width="150" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
