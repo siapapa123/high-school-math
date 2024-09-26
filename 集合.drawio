@@ -134,8 +134,14 @@
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-30" value="列举法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="470" y="401" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-31" target="59S6Q1Q_1XNdlJHfsTI0-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-31" target="59S6Q1Q_1XNdlJHfsTI0-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-31" value="图示法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="470" y="590" width="50" height="20" as="geometry" />
+          <mxGeometry x="470" y="520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="hcAzoptO_WmIq8goRze2-3" value="元素一般用小写字母表示" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="600" y="113" width="140" height="30" as="geometry" />
@@ -187,6 +193,12 @@
         </mxCell>
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-4" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;无限集合&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="573" y="471" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-6" value="用数轴或Venn图表示集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="500" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-10" value="&lt;span style=&quot;white-space: nowrap;&quot;&gt;形象且直观，在表示集合关系时常用&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="530" width="208" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
