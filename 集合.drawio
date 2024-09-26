@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.6 Safari/605.1.15" version="24.7.16">
   <diagram name="第 1 页" id="F86pxBzs7jDIRsQRSrXJ">
-    <mxGraphModel dx="572" dy="453" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="887" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,10 +177,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="luhbHATYq1ZCxEuC8jxz-8" value="将集合中元素具有的特征用表达式表示出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="441" width="240" height="30" as="geometry" />
+          <mxGeometry x="572.5" y="441" width="237.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="luhbHATYq1ZCxEuC8jxz-11" value="\(\{x\in|P(x)\}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="446" width="80" height="20" as="geometry" />
+          <mxGeometry x="850" y="444" width="80" height="24" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
