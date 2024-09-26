@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4.1 Safari/605.1.15" version="24.7.16">
   <diagram name="第 1 页" id="F86pxBzs7jDIRsQRSrXJ">
-    <mxGraphModel dx="1622" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1485" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,8 +216,39 @@
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;\([2,5]\)表示\(2\leqslant x\leqslant 5\)，\((2,5)\)表示\(2&amp;lt;x&amp;lt;5\)，‘\(\mathbf{[}\)’或‘\(\mathbf{]}\)’为闭区间，端点值能取到，‘\(\mathbf{(}\)’或‘\(\mathbf{)}\)’为开区间，端点值取不到，特别地\(\pm\infty\)只能用开区间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="335" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-33" value="集合的基本关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="319" width="90" height="30" as="geometry" />
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-33" target="59S6Q1Q_1XNdlJHfsTI0-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-33" target="59S6Q1Q_1XNdlJHfsTI0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-33" value="集合间的基本关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="315" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-34" target="59S6Q1Q_1XNdlJHfsTI0-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="310" />
+              <mxPoint x="-270" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-34" value="包含（\(\supseteq\)）或包含于（\(\subseteq\)）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="295" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-35" target="59S6Q1Q_1XNdlJHfsTI0-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-270" y="348" />
+              <mxPoint x="-270" y="329" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-35" value="相等（\(=\)）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="333" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-38" value="子集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-340" y="314" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
