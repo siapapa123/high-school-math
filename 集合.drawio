@@ -222,6 +222,9 @@
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-33" target="59S6Q1Q_1XNdlJHfsTI0-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-33" target="59S6Q1Q_1XNdlJHfsTI0-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-33" value="集合间的基本关系" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-50" y="311" width="100" height="30" as="geometry" />
         </mxCell>
@@ -242,6 +245,37 @@
         </mxCell>
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-49" value="\(\varnothing\)是任何集合的子集，是任何非空集合的真子集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-360" y="359" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-51" target="59S6Q1Q_1XNdlJHfsTI0-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="430" />
+              <mxPoint x="-260" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-51" target="59S6Q1Q_1XNdlJHfsTI0-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-51" target="59S6Q1Q_1XNdlJHfsTI0-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-260" y="430" />
+              <mxPoint x="-260" y="458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-51" value="非空集合\(A\)中有\(n\)个元素" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="415" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-52" value="子集个数：\(2^n\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-366" y="387" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-53" value="真子集个数：\(2^n-1\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-406" y="415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-54" value="非空真子集个数：\(2^n-2\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-427.5" y="443" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
