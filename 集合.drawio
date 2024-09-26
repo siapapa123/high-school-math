@@ -158,11 +158,17 @@
         <mxCell id="hcAzoptO_WmIq8goRze2-13" value="&lt;ol style=&quot;padding-left: 24px; margin-top: 12px; margin-right: 0px;&quot;&gt;&lt;li&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;全体非负整数组成的集合（自然数集）：\(\mathbf{N}\)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;全体正整数组成的集合（正整数集）：\(\mathbf{N^*}\)或\(\mathbf{N_+}\)&lt;/li&gt;&lt;li&gt;全体整数组成的集合（整数集）：\(\mathbf{Z}\)&lt;/li&gt;&lt;li&gt;全体有理数组成的集合（有理数集）：\(\mathbf{Q}\)&lt;/li&gt;&lt;li&gt;全体实数组成的集合（实数集）：\(\mathbf{R}\)&lt;/li&gt;&lt;li&gt;全体复数组成的集合（复数集）：\(\mathbf{C}\)&lt;/li&gt;&lt;li&gt;没有任何元素的集合，也叫空集：\(\varnothing\)&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;spacingTop=0;spacingBottom=0;" parent="1" vertex="1">
           <mxGeometry x="789" y="135" width="310" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="luhbHATYq1ZCxEuC8jxz-1" value="将集合中的元素不重复的列举出来，并用大括号括起来：&lt;div&gt;\(\{\)元素1,元素 2,元素3,…\(\}\)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="572.5" y="390" width="307.5" height="40" as="geometry" />
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="luhbHATYq1ZCxEuC8jxz-1" target="luhbHATYq1ZCxEuC8jxz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-1" value="将集合中的元素不重复的列举出来" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="572.5" y="390" width="187.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="luhbHATYq1ZCxEuC8jxz-3" value="集合元素有限，且数量不多" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="572.5" y="430" width="150" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="luhbHATYq1ZCxEuC8jxz-6" value="\(\{\)元素1,元素 2,元素3,…\(\}\)" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="395" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
