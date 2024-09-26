@@ -25,35 +25,40 @@
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-6" value="元素：研究对象称为元素" style="whiteSpace=wrap;html=1;rounded=0;gradientColor=none;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="150" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="hcAzoptO_WmIq8goRze2-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-3" edge="1">
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="570" y="213" />
               <mxPoint x="570" y="190" />
-              <mxPoint x="570" y="128" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="hcAzoptO_WmIq8goRze2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hcAzoptO_WmIq8goRze2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-5" edge="1">
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="190" />
+              <mxPoint x="570" y="213" />
               <mxPoint x="570" y="268" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="59S6Q1Q_1XNdlJHfsTI0-16">
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="59S6Q1Q_1XNdlJHfsTI0-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="570" y="190" />
+              <mxPoint x="570" y="213" />
               <mxPoint x="570" y="329" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-9" target="hcAzoptO_WmIq8goRze2-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="213" />
+              <mxPoint x="570" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-9" value="集合：将元素组成的总体称为集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="360" y="180" width="190" height="20" as="geometry" />
+          <mxGeometry x="360" y="203" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Vv4uia_VUNC-QQ6TIXsC-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="Vv4uia_VUNC-QQ6TIXsC-11" target="Vv4uia_VUNC-QQ6TIXsC-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
