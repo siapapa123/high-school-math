@@ -66,7 +66,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="570" y="190" />
-              <mxPoint x="570" y="335" />
+              <mxPoint x="570" y="329" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -217,11 +217,17 @@
         <mxCell id="59S6Q1Q_1XNdlJHfsTI0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-16" target="59S6Q1Q_1XNdlJHfsTI0-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-16" value="区间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="602" y="320" width="40" height="30" as="geometry" />
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="59S6Q1Q_1XNdlJHfsTI0-16" target="59S6Q1Q_1XNdlJHfsTI0-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-18" value="一类特殊的实数集" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="700" y="300" width="110" height="30" as="geometry" />
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-16" value="区间" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="602" y="314" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-18" value="一类特殊的实数集，用于表示某些取值范围" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="294" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="59S6Q1Q_1XNdlJHfsTI0-21" value="&lt;div style=&quot;text-align: start;&quot;&gt;\([2,5]\)表示\(2\leqslant x\leqslant 5\)，\((2,5)\)表示\(2&amp;lt;x&amp;lt;5\)，‘\(\mathbf{[}\)’或‘\(\mathbf{]}\)’为闭区间，端点值能取到，‘\(\mathbf{(}\)’或‘\(\mathbf{)}\)’为开区间，端点值取不到，特别地\(\pm\infty\)只能用开区间&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="335" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
