@@ -365,6 +365,9 @@
         <mxCell id="CfzmVp42sZ8mNo2IJXtQ-29" value="\(A\cup B =\{x|x\in A\)或\(x\in B\}\)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-701" y="745" width="173" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="CfzmVp42sZ8mNo2IJXtQ-31" value="所有在全集\(U\)中去除集合\(A\)中所有元素后的元素组成的集合" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-570" y="930" width="319" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
