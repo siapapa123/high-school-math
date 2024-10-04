@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="-60jLGtVK_VgdgVTo9l9-2" value="充分条件和必要条件" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
-          <mxGeometry x="350" y="310" width="30" height="140" as="geometry" />
+          <mxGeometry x="342" y="310" width="30" height="140" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-1" target="y6gqoFCah1DAjgX23wNE-2">
           <mxGeometry relative="1" as="geometry" />
