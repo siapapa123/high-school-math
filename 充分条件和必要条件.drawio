@@ -7,8 +7,17 @@
         <mxCell id="-60jLGtVK_VgdgVTo9l9-2" value="充分条件和必要条件" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="350" y="310" width="30" height="140" as="geometry" />
         </mxCell>
+        <mxCell id="y6gqoFCah1DAjgX23wNE-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-1" target="y6gqoFCah1DAjgX23wNE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6gqoFCah1DAjgX23wNE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-1" target="y6gqoFCah1DAjgX23wNE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y6gqoFCah1DAjgX23wNE-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-1" target="y6gqoFCah1DAjgX23wNE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-1" value="命题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="250" width="40" height="30" as="geometry" />
+          <mxGeometry x="450" y="248" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-2" target="y6gqoFCah1DAjgX23wNE-5">
           <mxGeometry relative="1" as="geometry" />
@@ -26,10 +35,10 @@
           <mxGeometry x="540" y="180" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-3" value="真命题：判断为真的命题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="220" width="150" height="30" as="geometry" />
+          <mxGeometry x="540" y="278" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-4" value="假命题：判断为假的命题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="260" width="150" height="30" as="geometry" />
+          <mxGeometry x="540" y="318" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-5" target="y6gqoFCah1DAjgX23wNE-15">
           <mxGeometry relative="1" as="geometry">
