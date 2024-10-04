@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-1" value="命题" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="248" width="40" height="30" as="geometry" />
+          <mxGeometry x="450" y="233" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="y6gqoFCah1DAjgX23wNE-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y6gqoFCah1DAjgX23wNE-2" target="y6gqoFCah1DAjgX23wNE-3">
           <mxGeometry relative="1" as="geometry" />
